@@ -12,6 +12,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/toquinha_man)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
 
-- 🔭 Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou aprendendo ... Python, Orientação a Objetos, Machine Learning.
+- 🔭 Atualmente estou trabalhando em ... Me especializar em Data Science
+- 🌱 Atualmente estou aprendendo ... Python, Data Science, Machine Learning.
 -->
