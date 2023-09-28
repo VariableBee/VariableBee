@@ -34,7 +34,7 @@ A passionate Data Science student from Brazil.
 
 ## 🔥 Github Stats
 
-<a href="https://github.com/VariableBee"><img width= 50% src="https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham"> </a><a href="https://github.com/VariableBee"><img width= 50% src="https://github-readme-streak-stats.herokuapp.com?user=variablebee&theme=gotham"></a>
+<a href="https://github.com/VariableBee"><img src="https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham"> </a><a href="https://github.com/VariableBee"><img src="https://github-readme-streak-stats.herokuapp.com?user=variablebee&theme=gotham"></a>
 
 ## Skills and Most Used Languages
 
