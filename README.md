@@ -1,6 +1,6 @@
-<h1 align="left">Hello, world!</h1>
+<h1 align="center">Hello, world!</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
 </p>
 
