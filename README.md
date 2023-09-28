@@ -1,5 +1,3 @@
-<h1 align="center">Hello, world!</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=variablebee&label=Profile%20views&color=0e75b6&style=flat" alt="variablebee" /> </p>
 
 <p align="center">
