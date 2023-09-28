@@ -1,6 +1,6 @@
-<p align="center">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
-</p>
+<h1 align="center">Hello, world!</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=variablebee&label=Profile%20views&color=0e75b6&style=flat" alt="variablebee" /> </p>
 
 <p> 
 Hi 👋, I'm Chris!
@@ -27,6 +27,10 @@ A passionate Data Science student from Brazil.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
+</p>
 
 ## 🔥 Github Stats
 
