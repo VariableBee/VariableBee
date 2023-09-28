@@ -1,5 +1,9 @@
 <h1 align="center">Hello, world!</h1>
 
+<p align="center">
+  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=variablebee&label=Profile%20views&color=0e75b6&style=flat" alt="variablebee" /> </p>
 
 <p> 
@@ -56,9 +60,3 @@ A passionate Data Science student from Brazil.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VariableBee&theme=gotham)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VariableBee&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<p align="center">
-  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
-</p>
-
