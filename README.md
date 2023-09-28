@@ -1,10 +1,10 @@
 <h1 align="center">Hello, world!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=variablebee&label=Profile%20views&color=0e75b6&style=flat" alt="variablebee" /> </p>
-
 <p align="center">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
+  <img align="right" width=50% src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=variablebee&label=Profile%20views&color=0e75b6&style=flat" alt="variablebee" /> </p>
 
 <p> 
 Hi 👋, I'm Chris!
@@ -32,15 +32,13 @@ A passionate Data Science student from Brazil.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
 
-## 🔥 Github Stats
 
-<a href="https://github.com/VariableBee"><img width= 50% src="https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham"> </a><a href="https://github.com/VariableBee"><img width= 50% src="https://github-readme-streak-stats.herokuapp.com?user=variablebee&theme=gotham"></a>
+## 🔥Skills!
 
-## Skills and Most Used Languages
+<a href="https://github.com/VariableBee"><img src="https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham"> </a><a href="https://github.com/VariableBee"><img src="https://github-readme-streak-stats.herokuapp.com?user=variablebee&theme=gotham"></a>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
 
-  <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -50,7 +48,6 @@ A passionate Data Science student from Brazil.
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </div>
 
-  <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -60,7 +57,6 @@ A passionate Data Science student from Brazil.
     <img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   </div>
   
-  <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
     <h3>Libraries</h3>
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -69,4 +65,5 @@ A passionate Data Science student from Brazil.
   </div>
 </div>
 <br />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=variablebee&theme=gotham&show_icons=true&locale=en&layout=compact" alt="variablebee"/></p>
