@@ -1,8 +1,5 @@
-<h1 align="center">Hello, world!</h1>
 
-<p align="left">
-  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
-</p>
+<h1 align="center">Hello, world!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=variablebee&label=Profile%20views&color=0e75b6&style=flat" alt="variablebee" /> </p>
 
@@ -58,5 +55,14 @@ A passionate Data Science student from Brazil.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VariableBee&theme=gotham)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VariableBee&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+## 🔥 Github Stats
+
+<a href="https://imgur.com/pdIHcRA"><img align="right" width="45%" src="https://i.imgur.com/pdIHcRA.gif" title="source: imgur.com" /></a>
+
+<a href="https://github.com/VariableBee">
+  <img width="50%" src="https://streak-stats.demolab.com/?user=VariableBee&theme=gotham">
+</a>
+
+<a href="https://github.com/VariableBee">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=VariableBee&theme=gotham">
+</a>
