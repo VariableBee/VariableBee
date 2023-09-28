@@ -1,9 +1,7 @@
 <h1 align="center">Hello, world!</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=variablebee&label=Profile%20views&color=0e75b6&style=flat" alt="variablebee" /> </p>
 
-<p align="center">
-  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
-</p>
 
 <p> 
 Hi 👋, I'm Chris!
@@ -55,7 +53,9 @@ A passionate Data Science student from Brazil.
 
 ## 🔥 Github Stats
 
-<a href="https://imgur.com/Xn3D6tn"><img align="right" width="45%" src="https://i.imgur.com/Xn3D6tn.jpg" title="source: imgur.com" /></a>
+<p align="center">
+  <img align="right" width="48%" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
+</p>
 
 <a href="https://github.com/VariableBee"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham"></a>
 
