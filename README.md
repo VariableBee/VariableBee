@@ -28,15 +28,15 @@ A passionate Data Science student from Brazil.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
 
+<a href="https://github.com/VariableBee"><img src="https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham"> 
+
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
 </p>
 
-## 🔥 Github Stats
+## 🔥 Skills and Most Used Languages
 
-<a href="https://github.com/VariableBee"><img src="https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham"> </a><a href="https://github.com/VariableBee"><img src="https://github-readme-streak-stats.herokuapp.com?user=variablebee&theme=gotham"></a>
-
-## Skills and Most Used Languages
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=variablebee&theme=gotham&show_icons=true&locale=en&layout=compact" alt="variablebee"/></p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
 
@@ -68,5 +68,3 @@ A passionate Data Science student from Brazil.
     <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </div>
 </div>
-<br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=variablebee&theme=gotham&show_icons=true&locale=en&layout=compact" alt="variablebee"/></p>
