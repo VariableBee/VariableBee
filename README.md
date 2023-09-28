@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
-</p>
 
 <h1 align="center">Hello, world!</h1>
+
+<a href="https://imgur.com/Xn3D6tn"><img align="right" width="45%" src="https://i.imgur.com/Xn3D6tn.jpg" title="source: imgur.com" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=variablebee&label=Profile%20views&color=0e75b6&style=flat" alt="variablebee" /> </p>
 
@@ -55,8 +54,6 @@ A passionate Data Science student from Brazil.
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
 
 ## 🔥 Github Stats
-
-<a href="https://imgur.com/Xn3D6tn"><img align="right" width="45%" src="https://i.imgur.com/Xn3D6tn.jpg" title="source: imgur.com" /></a>
 
 <a href="https://github.com/VariableBee"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham"></a>
 
