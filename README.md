@@ -1,10 +1,12 @@
+<p align="center">
+  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
+</p>
 
 <h1 align="center">Hello, world!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=variablebee&label=Profile%20views&color=0e75b6&style=flat" alt="variablebee" /> </p>
 
 <p> 
-  
 Hi 👋, I'm Chris!
 A passionate Data Science student from Brazil.
   
@@ -22,31 +24,28 @@ A passionate Data Science student from Brazil.
 - 💬 Ask me about **data science, data analysis, machine learning, python**
 
 - 📫 Reach me out at **oc.chris.inbox@gmail.com**
-  
-- **Languages:**
-- 
-    <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-- **Tools:**
-- 
-    <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+- Languages:
+   <br />
+   
+  <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
+  <br /> 
+  <img align="center" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img align="center" alt="html5" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img align="center" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+
+- Tools:
  
-- **Frameworks:**
-- 
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
-- **Libraries:**
-- 
-    <img align="center" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="html5" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 </details>
 </p>
 
@@ -57,12 +56,11 @@ A passionate Data Science student from Brazil.
 
 ## 🔥 Github Stats
 
-<a href="https://imgur.com/pdIHcRA"><img align="right" width="45%" src="https://i.imgur.com/pdIHcRA.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Xn3D6tn"><img align="right" width="45%" src="https://i.imgur.com/Xn3D6tn.jpg" title="source: imgur.com" /></a>
 
-<a href="https://github.com/VariableBee">
-  <img width="50%" src="https://streak-stats.demolab.com/?user=VariableBee&theme=gotham">
-</a>
+<a href="https://github.com/VariableBee"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham"></a>
 
-<a href="https://github.com/VariableBee">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=VariableBee&theme=gotham">
-</a>
+<a href="https://github.com/VariableBee"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=variablebee&theme=gotham"></a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=variablebee&theme=gotham&show_icons=true&locale=en&layout=compact" alt="variablebee"/></p>
+
