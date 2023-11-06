@@ -1,27 +1,17 @@
-## Hello, world!
+<h1 align="center">Hello, world!</h1>
 
 <p> 
 Hi 👋, I'm Chris!
-A passionate Data Science student from Brazil.
+A passionate Data Science student from Brazil. I'm 26 years old and currently living in Brazil. I am looking for my first job oportunity.
   
 - 🌱 I’m currently studying Data Science and also Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /> 
 
-- 🔭 My dream is to one day work with IA and Machine Learning.
-<div>
-<details>
-  <summary>👨‍💻 More about me</summary>
-  
-- 📄 Know about my experiences
- 
-- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/christian-oliveira-925532257/)
- 
-- 💬 Ask me about **data science, data analysis, machine learning, python**
+- 🔭 I'm fluent in English and have experience with SQL, Python, Data Analysis, Data visualization and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management. My dream is to one day work with IA and Machine Learning.
 
-- 📫 Reach me out at **oc.chris.inbox@gmail.com**
-</details>
+- ⚡I enjoy reading, whether it's a good book, manga or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </p>
 
-## Links
+## 📫 Links
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
@@ -35,10 +25,8 @@ A passionate Data Science student from Brazil.
 
 ## 🔥 Skills and Most Used Languages
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=variablebee&theme=gotham&show_icons=true&locale=en&layout=compact" alt="variablebee"/></p>
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
-
+  
   <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
@@ -52,11 +40,12 @@ A passionate Data Science student from Brazil.
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
-    <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-    <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img align="center" alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img align="center" alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
     <img align="center" alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
     <img align="center" alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   </div>
   
   <!-- Skills: Libraries -->
