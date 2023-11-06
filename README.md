@@ -11,12 +11,25 @@ A passionate Data Science student from Brazil.
 <details>
   <summary>👨‍💻 More about me </summary>
   
-- 💬 I'm fluent in English and have experience with SQL, Python, Data Analysis, Data visualization and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+- 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
 
 - ⚡I enjoy reading, whether it's a good book, manga or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+
+</details>
 </p>
 
-  ## 🔥 Skills and Most Used Languages
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+
+<a href="https://github.com/VariableBee"><img src="https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham"> 
+
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
+</p>
+
+## 🔥 Skills and Most Used Languages
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
   
@@ -49,16 +62,3 @@ A passionate Data Science student from Brazil.
     <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </div>
 </div>
-</details>
-
-## 📫 Links
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
-
-<a href="https://github.com/VariableBee"><img src="https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham"> 
-
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
-</p>
