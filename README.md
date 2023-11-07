@@ -6,6 +6,12 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
+    
+<!--- snake --->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <br>
 
@@ -71,7 +77,8 @@
     <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </div>
 </details>
-  
-<p align="left">
+
+<p align="right">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
+
