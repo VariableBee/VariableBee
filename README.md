@@ -14,6 +14,8 @@
        alt="snake" /></a>
 </div>
 
+<br>
+
 <p>
   Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
 
